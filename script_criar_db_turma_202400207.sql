@@ -1,0 +1,1 @@
+CREATE SCHEMA `db_turma_202400207` ;
